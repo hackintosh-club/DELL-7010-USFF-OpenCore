@@ -2,7 +2,7 @@
 
 ![image](ScreenShot/dell7010usff.jpg)
 
-### [简体中文](https://github.com/hackintosh-efi/MAG-B660M-MORTAR-WIFI-DDR4-OpenCore)
+### [简体中文](https://github.com/hackintosh-club/DELL-7010-USFF-OpenCore)
 
 [OpenCore 10.4](https://github.com/acidanthera/OpenCorePkg)
 
@@ -31,20 +31,20 @@ General
      |-- Advanced Boot Options：Enable Legacy Option ROMs - unCheck  ❎  
 
 System Configuration
-	 |-- SATA Operation: AHCI
+     |-- SATA Operation: AHCI
 
 Video
-	 |-- Primary Display: Intel HD Graphics
+     |-- Primary Display: Intel HD Graphics
 
 Security
-	 |-- TPM Security - uncheck  ❎  
+     |-- TPM Security - uncheck  ❎  
 
 Secure Boot
-	 |-- Secure Boot Enable: Disabled
+     |-- Secure Boot Enable: Disabled
 
 PowerManagement
-	 |-- USB Wake Support: Disabled
-	 |-- Block Sleep (S3 State): Check ✅
+     |-- USB Wake Support: Disabled
+     |-- Block Sleep (S3 State): Check ✅
 ```
 
 ### Notes

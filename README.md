@@ -31,20 +31,20 @@ General
      |-- Advanced Boot Options：Enable Legacy Option ROMs - unCheck  ❎  
 
 System Configuration
-	 |-- SATA Operation: AHCI
+     |-- SATA Operation: AHCI
 
 Video
-	 |-- Primary Display: Intel HD Graphics
+     |-- Primary Display: Intel HD Graphics
 
 Security
-	 |-- TPM Security - uncheck  ❎  
+     |-- TPM Security - uncheck  ❎  
  
 Secure Boot
-	 |-- Secure Boot Enable: Disabled
+     |-- Secure Boot Enable: Disabled
 
 PowerManagement
-	 |-- USB Wake Support: Disabled
-	 |-- Block Sleep (S3 State): Check ✅
+     |-- USB Wake Support: Disabled
+     |-- Block Sleep (S3 State): Check ✅
 ```
 
 ### 注意事项

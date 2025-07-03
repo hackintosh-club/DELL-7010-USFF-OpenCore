@@ -32,16 +32,16 @@ General
 
 System Configuration
 	 |-- SATA Operation: AHCI
-	 
+
 Video
 	 |-- Primary Display: Intel HD Graphics
-	 
+
 Security
 	 |-- TPM Security - uncheck  ❎  
-	 
+
 Secure Boot
 	 |-- Secure Boot Enable: Disabled
-	 
+
 PowerManagement
 	 |-- USB Wake Support: Disabled
 	 |-- Block Sleep (S3 State): Check ✅
